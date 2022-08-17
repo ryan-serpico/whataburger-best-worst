@@ -1,0 +1,7 @@
+# Folders
+venv/
+
+# Files
+.env
+.DS_Store
+google_playground.py
